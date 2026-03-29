@@ -38,7 +38,7 @@ aadhaarguard/
 │── demo/
 📸 Demo Screenshots
 
-(Add your screenshots here)
+
 
 Upload Interface
 Extracted Aadhaar Details
